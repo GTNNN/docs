@@ -1,0 +1,3 @@
+import{_ as t,o as r,c as o,k as e,a}from"./chunks/framework.76cb5871.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"work.md","filePath":"work.md"}'),s={name:"work.md"},n=e("h2",{id:"作品",tabindex:"-1"},[a("作品 "),e("a",{class:"header-anchor",href:"#作品","aria-label":'Permalink to "作品"'},"​")],-1),c=e("h2",{id:"·就·俩·在",tabindex:"-1"},[a("·就 ·俩 ·在 "),e("a",{class:"header-anchor",href:"#·就·俩·在","aria-label":`Permalink to "·就
+·俩
+·在"`},"​")],-1),d=[n,c];function i(l,_,h,m,p,f){return r(),o("div",null,d)}const u=t(s,[["render",i]]);export{x as __pageData,u as default};

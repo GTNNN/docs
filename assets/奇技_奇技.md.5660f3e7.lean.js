@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,Q as a}from"./chunks/framework.76cb5871.js";const d=JSON.parse('{"title":"奇技","description":"","frontmatter":{},"headers":[],"relativePath":"奇技/奇技.md","filePath":"奇技/奇技.md"}'),n={name:"奇技/奇技.md"},p=a("",9),s=[p];function o(_,c,i,h,l,f){return t(),r("div",null,s)}const u=e(n,[["render",o]]);export{d as __pageData,u as default};
